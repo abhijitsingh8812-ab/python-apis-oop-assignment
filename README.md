@@ -1,5 +1,4 @@
 # python-apis-oop-assignment
-# python-apis-oop-assignment
 
 Small Python assignment covering OOP and `requests` usage. Python 3.10+ required.
 
